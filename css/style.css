@@ -20,3 +20,8 @@ li {
     background-color: lightgrey;
     margin: 100px;
 }
+
+.menuicons {
+    background: transparent;
+    margin-right: 6px;
+}
