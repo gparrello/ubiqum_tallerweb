@@ -30,3 +30,7 @@ li {
     background: transparent;
     margin-right: 6px;
 }
+
+.custom_side_panel {
+    width: 95%;
+}
