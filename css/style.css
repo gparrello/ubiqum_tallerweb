@@ -26,11 +26,26 @@ li {
     /*margin: 100px;*/
 }
 
+.tabs-below, .tabs-right, .tabs-left {
+    border-bottom: 0;
+}
+
 .menuicons {
     background: transparent;
     margin-right: 6px;
+    size: 95%;
 }
 
 .custom_side_panel {
+    font-size: 150%;
+}
+
+@media (min-width : 992px) {
+    .custom_side_panel {
     width: 95%;
+    }
+}
+
+.custom_fixture {
+    width: 95%
 }
